@@ -1,0 +1,4 @@
+Explique qué es List en Java y qué relación guarda con ArrayList.
+
+Un List en Java es una estructura de datos que permite guardar una secuencia ordenada de elementos, donde también
+se permite guardar elementos duplicados. Un list en Java se extiende de la interfaz 'collection'
